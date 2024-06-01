@@ -9,7 +9,7 @@ The Todo application is designed to be a simple yet powerful tool for task manag
 ## Features
 
 - Add new tasks
-- Delete tasks{dropdown}
+- Delete tasks
 
 ## Technologies Used
 
